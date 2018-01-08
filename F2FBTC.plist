@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.apicloud.com/icon1/7a/62/7a62a3053df13a25791189ea026710d7.57x57.png</string>
+					<string>https://github.com/liuyihsou/aibangxiansheng/blob/master/Icon-57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.apicloud.com/icon1/7a/62/7a62a3053df13a25791189ea026710d7.57x57.png</string>
+					<string>https://github.com/liuyihsou/aibangxiansheng/blob/master/Icon-512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
